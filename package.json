@@ -1,0 +1,43 @@
+{
+  "name": "raven-dev-env",
+  "version": "0.1.0",
+  "description": "A front-end development environment for modern websites.",
+  "author": "Thomas Higginbotham",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomashigginbotham/raven-dev-env.git"
+  },
+  "keywords": [
+    "grunt",
+    "gulp",
+    "sass",
+    "minification",
+    "server",
+    "environment"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^2.2.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "~1.0.0",
+    "grunt-contrib-connect": "~1.0.2",
+    "grunt-contrib-copy": "~1.0.0",
+    "grunt-contrib-imagemin": "~1.0.1",
+    "grunt-contrib-sass": "~1.0.0",
+    "grunt-contrib-uglify": "~1.0.1",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-processhtml": "~0.4.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.1.0",
+    "gulp-if": "^2.0.1",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-open": "^2.0.0",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-ruby-sass": "~2.0.6",
+    "gulp-sourcemaps": "~1.6.0",
+    "gulp-uglify": "^1.5.4",
+    "pump": "^1.0.1"
+  }
+}
