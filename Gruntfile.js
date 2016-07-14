@@ -104,6 +104,7 @@ module.exports = function (grunt) {
 		uglify: {
 			options: {
 				sourceMap: true,
+				sourceMapIncludeSources: true,
 				screwIE8: true
 			},
 			dist: {
